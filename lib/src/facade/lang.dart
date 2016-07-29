@@ -17,6 +17,7 @@ class CONST {
   const CONST();
 }
 
+@deprecated
 const IS_DART = true;
 
 void scheduleMicroTask(void fn()) {
